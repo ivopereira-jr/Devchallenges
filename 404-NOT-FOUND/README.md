@@ -8,7 +8,7 @@
 
 <div align="center">
   <h3>
-    <a href="https://{your-demo-link.your-domain}">
+    <a href="https://not-found.vercel.app/">
       Demo
     </a>
     <span> | </span>
@@ -35,7 +35,7 @@
 ## Overview
 
 <br />
-<img src="public/images/not-found.gif" alt="gif of page not found" />
+<img src="images/not-found.gif" alt="gif of page not found" />
 
 <br />
 <br />
